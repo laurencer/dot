@@ -1,0 +1,5 @@
+alias hls='hadoop fs -ls'
+alias hcat='hadoop fs -cat'
+alias hget='hadoop fs -copyToLocal'
+alias hput='hadoop fs -copyFromLocal'
+alias hrm='hadoop fs -rmr'
